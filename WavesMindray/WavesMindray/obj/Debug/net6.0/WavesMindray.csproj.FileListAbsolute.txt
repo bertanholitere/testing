@@ -1,0 +1,35 @@
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\WavesMindray.exe
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\WavesMindray.deps.json
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\WavesMindray.runtimeconfig.json
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\WavesMindray.dll
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\WavesMindray.pdb
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\GodSharp.Socket.dll
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.csproj.AssemblyReference.cache
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.AssemblyInfoInputs.cache
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.AssemblyInfo.cs
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.csproj.CoreCompileInputs.cache
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.csproj.CopyComplete
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.dll
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\refint\WavesMindray.dll
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.pdb
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.genruntimeconfig.cache
+C:\Users\rdornelas\Documents\Alfamed\Mensagens Monitores\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\ref\WavesMindray.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\WavesMindray.exe
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\WavesMindray.deps.json
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\WavesMindray.runtimeconfig.json
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\WavesMindray.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\WavesMindray.pdb
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\GodSharp.Socket.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.csproj.AssemblyReference.cache
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.AssemblyInfoInputs.cache
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.AssemblyInfo.cs
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.csproj.CoreCompileInputs.cache
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.csproj.CopyComplete
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\refint\WavesMindray.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.pdb
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\WavesMindray.genruntimeconfig.cache
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\obj\Debug\net6.0\ref\WavesMindray.dll
+C:\Users\nocla\OneDrive\Ambiente de Trabalho\Waves Mindray\WavesMindray\WavesMindray\bin\Debug\net6.0\Newtonsoft.Json.dll

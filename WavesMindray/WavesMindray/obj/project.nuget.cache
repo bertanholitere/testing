@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fm4uORLhYJc3eOTPXqoKnmUaFn4ZsMSe/d3ZJD1dTv8JDhqn5H8ne9EiYfSUDNCR9smPYQdFFeddOdXwCw7Wng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nocla\\OneDrive\\Ambiente de Trabalho\\Waves Mindray\\WavesMindray\\WavesMindray\\WavesMindray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nocla\\.nuget\\packages\\godsharp.socket\\2021.412.3\\godsharp.socket.2021.412.3.nupkg.sha512",
+    "C:\\Users\\nocla\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
